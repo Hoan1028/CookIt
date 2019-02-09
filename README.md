@@ -24,4 +24,5 @@ Download [JustInMind](https://www.justinmind.com/) to view and simulate the [pro
 
 Extras
 * Credits to Felix Huang for building and hosting a sample website built for the application: http://cookitapplicationproj.me/
+
 You can view the code and assets he used to build the site from his GitHub which can be found [here](https://github.com/felixthe8/Cook-It/tree/master/IS-385-proj)
