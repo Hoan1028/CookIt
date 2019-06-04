@@ -20,6 +20,7 @@ Download [JustInMind](https://www.justinmind.com/) to view and simulate the [pro
 <p align="center">
   <img src="https://github.com/Hoan1028/CookIt/blob/master/CookItGif1.gif">
 </p>
+
 ## Built With
 * [JustInMind](https://www.justinmind.com/) - Prototyping Software 
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - Graphic Assets Design Software
